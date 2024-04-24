@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHWCzechitas", "CSharpHWCzechitas\CSharpHWCzechitas.csproj", "{9A616321-4DC6-4E66-A3BC-D4577426C883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpHWCzechitas.HW1.1", "CSharpHWCzechitas\CSharpHWCzechitas.HW1.1.csproj", "{9A616321-4DC6-4E66-A3BC-D4577426C883}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpHWCzechitas.HW1.2", "SSharpHWCzechitas.HW1.2\CSharpHWCzechitas.HW1.2.csproj", "{8547F481-B099-4E29-AFB0-40A434D1A03C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHWCzechitas.HW1.3", "CSharpHWCzechitas.HW1.3\CSharpHWCzechitas.HW1.3.csproj", "{9F494AD0-7E5A-44F7-B375-F9A140BB22DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHWCzechitas.HW1.4", "CSharpHWCzechitas.HW1.4\CSharpHWCzechitas.HW1.4.csproj", "{4F9D2120-82FC-4DFA-9FA7-CF6626CD98D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9A616321-4DC6-4E66-A3BC-D4577426C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A616321-4DC6-4E66-A3BC-D4577426C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A616321-4DC6-4E66-A3BC-D4577426C883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8547F481-B099-4E29-AFB0-40A434D1A03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8547F481-B099-4E29-AFB0-40A434D1A03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8547F481-B099-4E29-AFB0-40A434D1A03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8547F481-B099-4E29-AFB0-40A434D1A03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F494AD0-7E5A-44F7-B375-F9A140BB22DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F494AD0-7E5A-44F7-B375-F9A140BB22DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F494AD0-7E5A-44F7-B375-F9A140BB22DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F494AD0-7E5A-44F7-B375-F9A140BB22DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9D2120-82FC-4DFA-9FA7-CF6626CD98D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9D2120-82FC-4DFA-9FA7-CF6626CD98D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9D2120-82FC-4DFA-9FA7-CF6626CD98D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9D2120-82FC-4DFA-9FA7-CF6626CD98D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
